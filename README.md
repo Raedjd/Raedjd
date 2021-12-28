@@ -58,12 +58,8 @@ I'm Raed Jaidi a Full Stack Web Developer.
  
 ##### Coding Stats
  
- Week: 11 July, 2020 - 17 July, 2020
-Python      8 hrs 52 mins       ███████████████████░░░░░░   75.87 %
-Go          1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Markdown    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Docker      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-YAML        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
  
  #### Github Stats
  
