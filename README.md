@@ -58,7 +58,14 @@ I'm Raed Jaidi a Full Stack Web Developer.
  
 ##### Coding Stats
  
-<figure><embed src="https://wakatime.com/share/@20ade6c2-6f8a-448e-b075-c56b8b60f92c/0c14a4e4-6798-457d-888a-39055be03b0c.svg"></embed></figure>
+<!--START_SECTION:waka-->
+ Week: 11 July, 2020 - 17 July, 2020
+Python      8 hrs 52 mins       ███████████████████░░░░░░   75.87 %
+Go          1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Markdown    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Docker      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+YAML        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+<!--END_SECTION:waka-->
 
  #### Github Stats
  
