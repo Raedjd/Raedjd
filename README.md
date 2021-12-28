@@ -58,9 +58,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
  
 ##### Coding Stats
  
-<img src="https://github.com/<Raedjd>/<Raedjd>/blob/<master>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
- 
+<figure><embed src="https://wakatime.com/share/@20ade6c2-6f8a-448e-b075-c56b8b60f92c/0c14a4e4-6798-457d-888a-39055be03b0c.svg"></embed></figure>
  #### Github Stats
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raedjd&hide=contribs,prs&theme=tokyonight)
