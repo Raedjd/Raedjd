@@ -59,7 +59,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 ##### Coding Stats
  
 <!--START_SECTION:waka-->
- <a href="https://wakatime.com/badge/user/20ade6c2-6f8a-448e-b075-c56b8b60f92c/project/b52366dc-a326-4036-b6a1-4ae5d88fc804"><img src="https://wakatime.com/badge/user/20ade6c2-6f8a-448e-b075-c56b8b60f92c/project/b52366dc-a326-4036-b6a1-4ae5d88fc804.svg" alt="wakatime"></a>
+
 <!--END_SECTION:waka-->
 
  #### Github Stats
