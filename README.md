@@ -58,11 +58,8 @@ I'm Raed Jaidi a Full Stack Web Developer.
  
 ##### Coding Stats
  
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+<img src="https://github.com/<Raedjd>/<Raedjd>/blob/<master>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
  
  #### Github Stats
  
