@@ -60,7 +60,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 
  #### Github Stats
  
- <a href="https://git.io/praveenscience" rel="nofollow"><img src="https://camo.githubusercontent.com/e51fac0cff52052acf38c4883258d025d1eb25ec4412f091d615bd35ab9be2ae/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d626164693361267468656d653d746f6b796f6e69676874" alt="Raedjd's GitHub Activity Graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Raedjd&amp;theme=tokyonight" style="max-width: 100%;"></a>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raedjd&layout=compact)](https://github.com/Raedjdgithub-readme-stats)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raedjd&hide=contribs,prs&theme=tokyonight)
 
