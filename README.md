@@ -56,6 +56,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 #### Profile Visits
 
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Raedjd)
+ <img src="https://camo.githubusercontent.com/69f8f03c2de4ed766c80d5578cb30c7423626ae89ad66adf48709a274907b58a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6261646933613f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Raedjd?label=Follow&amp;style=social" style="max-width: 100%;">
 
  #### Github Stats
  
