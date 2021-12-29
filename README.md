@@ -56,7 +56,9 @@ I'm Raed Jaidi a Full Stack Web Developer.
 #### Profile Visits
 
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Raedjd)
-
+  
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
  #### Github Stats
  
