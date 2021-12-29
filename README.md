@@ -63,7 +63,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 <table>
     <thead>
         <tr>
-            <th colspan="2">![Anurag's GitHub stats](https://activity-graph.herokuapp.com/graph?username=Raedjd&amp;theme=tokyonight)</th>
+            <th colspan="2"> ![Anurag's GitHub stats](https://activity-graph.herokuapp.com/graph?username=Raedjd&amp;theme=tokyonight) </th>
         </tr>
     </thead>
     <tbody>
