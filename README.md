@@ -61,7 +61,17 @@ I'm Raed Jaidi a Full Stack Web Developer.
  #### Github Stats
  
  ![Anurag's GitHub stats](https://activity-graph.herokuapp.com/graph?username=Raedjd&amp;theme=tokyonight)
- 
- 
+ <table>
+<thead>
+<tr>
+<th> 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raedjd&hide=contribs,prs&theme=tokyonight)
+ </th>
+<th>
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Raedjd&amp;theme=tokyonight) 
+ </th>
+</tr>
+</thead>
+</table>
+ 
 
