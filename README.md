@@ -17,7 +17,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 - 😄 Pronouns: Raed, RaedJaidi
 - ⚡  Fun fact: I play games and go to the GYM very often.
 
-### Language
+### `Language`
 
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
@@ -26,7 +26,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 
-#### Frameworks 
+#### `Frameworks` 
 
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
@@ -35,7 +35,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></a>
 
 
-####  Database
+####  `Database`
 
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
@@ -44,14 +44,12 @@ I'm Raed Jaidi a Full Stack Web Developer.
 <details>
  <summary>More stuff about me </summary>
 
-#### Profile Visits
+#### `Profile Visits`
 
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Raedjd)
   
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
- #### Github Stats
+ #### `Github Stats`
  
 ![Anurag's GitHub stats](https://activity-graph.herokuapp.com/graph?username=Raedjd&amp;theme=tokyonight)   
 <div align="center">
