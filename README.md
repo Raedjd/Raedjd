@@ -16,7 +16,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 - 📫 How to reach me: raed.jaidi@esprit.tn.
 - 😄 Pronouns: Raed, RaedJaidi
 - ⚡  Fun fact: I play games and go to the GYM very often.
-
+<img align="right" alt="GIF" height="160px" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" data-canonical-src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="max-width: 100%;">
 ### `Language`
 
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
