@@ -34,6 +34,8 @@ I'm Raed Jaidi a Full Stack Web Developer.
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></a>
+<a href="#" rel="nofollow"><img src="	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
+<a href="#" rel="nofollow"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 
 #### `Library` 
 
