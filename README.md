@@ -1,8 +1,6 @@
 ### `Hi I'm Raed `👋  
 
 I'm Raed Jaidi a Full Stack Web Developer.
-<img align="right" src="https://camo.githubusercontent.com/0fdba28c5fdfec707bf9b1d6c6399bd32494ef3d45af9a0249e1e206457c797c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d2532334637463746372677696474683d373030266c696e65733d50617373696f6e6174652b61626f75742b6368616e67696e672b7468652b776f726c642b776974682b746563686e6f6c6f67792e3b46756c6c2b737461636b2b4a6176615363726970742b646576656c6f7065722532433b50686f746f2b45646974696e672b467265656c616e6365722532433b50726f66657373696f6e616c2b50686f746f677261706865722b616e642b46696c6d6d616b65722e" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&amp;width=700&amp;lines=Passionate+about+changing+the+world+with+technology.;Full+stack+web+developer%2C;" style="max-width: 100%;">
-
 <img align="right" width="50%" src="https://github.com/Dedpy/Dedpy/raw/main/Boy%20working.png" alt="Raedjd-freelancer" style="max-width: 100%;">
 
 📫: Reach me out! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;">
