@@ -64,9 +64,9 @@ I'm Raed Jaidi a Full Stack Web Developer.
 
  #### `Github Stats`
  
-![Anurag's GitHub stats](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Raedjd&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true style="max-width: 100%;")
+![Anurag's GitHub stats](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Raedjd&amp;theme=tokyonight)
  
- <p dir="auto"><a href="https://github.com/Raedjd/github-readme-activity-graph"><img alt="Raed Jaidi's Activity Graph"  data-canonical-src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Raedjd&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;"></a></p>
+
 <div align="center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raedjd&hide=contribs,prs&theme=tokyonight)
