@@ -64,8 +64,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 
  #### `Github Stats`
  
-![Anurag's GitHub stats]([https://activity-graph.herokuapp.com/graph?username=Raedjd&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Raedjd&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true style=max-width: 100%;)) 
- 
+![Anurag's GitHub stats]([https://activity-graph.herokuapp.com/graph?username=Raedjd&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true style="max-width": 100%;])
  <p dir="auto"><a href="https://github.com/Raedjd/github-readme-activity-graph"><img alt="Raed Jaidi's Activity Graph" src="https://camo.githubusercontent.com/6661b2aa77702749d2c28f3e4acfadbb82aa0b38c5ea2b792badea1b5d4a211c/68747470733a2f2f64656e766572636f646572312d61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170682f3f757365726e616d653d546168656e7942454c47554954482662675f636f6c6f723d31463232324526636f6c6f723d463844383636266c696e653d46383544374626706f696e743d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Raedjd&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;"></a></p>
 <div align="center">
  
