@@ -62,8 +62,8 @@ I'm Raed Jaidi a Full Stack Web Developer.
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Raedjd)
   
 
- #### `Github Stats`  
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63d722931c1acc52675c1dda6e92309da815e41feaf8674a5bfa9ad354c45452/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5376517a6b545162335a774b636a3151544f2f67697068792e676966" data-target="animated-image.originalLink" hidden=""><img src="https://camo.githubusercontent.com/63d722931c1acc52675c1dda6e92309da815e41feaf8674a5bfa9ad354c45452/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5376517a6b545162335a774b636a3151544f2f67697068792e676966" width="40" data-canonical-src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+ #### `Github Stats` <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63d722931c1acc52675c1dda6e92309da815e41feaf8674a5bfa9ad354c45452/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5376517a6b545162335a774b636a3151544f2f67697068792e676966" data-target="animated-image.originalLink" hidden=""><img src="https://camo.githubusercontent.com/63d722931c1acc52675c1dda6e92309da815e41feaf8674a5bfa9ad354c45452/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5376517a6b545162335a774b636a3151544f2f67697068792e676966" width="40" data-canonical-src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>  
+ 
      
  
 ![Anurag's GitHub stats](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Raedjd&amp;theme=tokyonight)
