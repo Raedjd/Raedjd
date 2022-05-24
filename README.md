@@ -82,11 +82,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
         
 <p dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/f9409f30f3a44ea467ee02746f666c01fcee41b45e43d0bf8805af20db28572b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d746168656e79267468656d653d7261646963616c" alt="Raedjd" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=Raedjd&amp;theme=radical" style="max-width: 100%;"></a></p>
          
-<p dir="auto"><strong>I'm an early <g-emoji class="g-emoji" alias="baby_chick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f424.png">🐤</g-emoji></strong></p>
-         🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" width="402" height="172">
 
  
  
