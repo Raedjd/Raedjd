@@ -36,8 +36,6 @@ I'm Raed Jaidi a Full Stack Web Developer.
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></a>
-<a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
-<a href="#" rel="nofollow"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 
 #### `Library` 
 
@@ -46,6 +44,10 @@ I'm Raed Jaidi a Full Stack Web Developer.
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"></a>
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
 <img align="right" alt="GIF" height="160px" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" data-canonical-src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="max-width: 100%;">
+
+#### `DevOps` 
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ####  `Database`
 
