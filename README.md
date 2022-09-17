@@ -48,6 +48,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 #### `DevOps` 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ####  `Database`
 
