@@ -44,6 +44,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"></a>
 <a href="#" rel="nofollow"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
 <img align="right" alt="GIF" height="160px" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" data-canonical-src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/34cc5c8b4ea4d92190f579a8f03e0b8c663b0788653bf6a378026464f5573286/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6a65747061636b746f6361742e706e67" alt="celebrate" width="300" align="right" data-canonical-src="https://octodex.github.com/images/jetpacktocat.png" style="max-width: 100%;">
 
 #### `DevOps` 
 
