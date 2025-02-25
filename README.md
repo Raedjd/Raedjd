@@ -12,7 +12,7 @@ I'm Raed Jaidi a Full Stack Web Developer.
 
 - 💻 Most used line of code git commit -m "Initial Commit"
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: raed.jaidi@esprit.tn.
+- 📫 How to reach me: raed.jaiidi@gmail.com.
 - 😄 Pronouns: Raed, RaedJaidi
 - ⚡  Fun fact: I play games and go to the GYM very often.
 
